@@ -52,3 +52,9 @@ Host Creation + Proxy Assignment
 
 This repository contains a simplified and sanitized version of the implementation.
 No customer, company, infrastructure or confidential information is included.
+
+## Architecture
+
+For more details about the workflow and components:
+
+👉 [View Architecture Documentation](docs/architecture.md)
