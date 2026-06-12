@@ -75,9 +75,9 @@ For more details about the workflow and components:
 
 👉 [View Architecture Documentation](docs/architecture.md)
 
-```markdown
-## Documentation
+## Documentattion
 
+```markdown
 - [Architecture](docs/architecture.md)
 - [Workflow](docs/workflow.md)
 - [Troubleshooting](docs/troubleshooting.md)
