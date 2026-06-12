@@ -29,6 +29,22 @@ This project was created to solve a common monitoring challenge in large Zabbix 
 - Agent configuration templating
 - Single proxy assignment per host
 
+## Repository Structure
+
+```text
+zabbix-single-proxy-agent/
+├── ansible/
+│   ├── install-agent.yml
+│   └── templates/
+│       └── zabbix_agentd.conf.j2
+├── python/
+│   └── proxy_selector.py
+├── examples/
+│   └── inventory_example.ini
+└── docs/
+    └── architecture.md
+```
+
 ## Architecture
 
 Host
