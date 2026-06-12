@@ -74,3 +74,10 @@ No customer, company, infrastructure or confidential information is included.
 For more details about the workflow and components:
 
 👉 [View Architecture Documentation](docs/architecture.md)
+
+```markdown
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Workflow](docs/workflow.md)
+- [Troubleshooting](docs/troubleshooting.md)
